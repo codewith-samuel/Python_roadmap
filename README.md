@@ -30,7 +30,7 @@ Get comfortable with Python basics and start coding simple programs.
 # Simple Calculator
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
-print(f"Sum: {num1 + num2)")
+print(f"Sum: {num1 + num2}")
 Milestone:
 Write a program to calculate the area of a rectangle.
 
@@ -47,6 +47,14 @@ Object-Oriented Programming (classes, objects, inheritance)
 List Comprehensions
 Working with Libraries (e.g., math, random)
 Example Code:
+
+python
+
+Collapse
+
+Wrap
+
+Copy
 # Function with error handling
 def divide(a, b):
     try:
@@ -71,6 +79,14 @@ Data Analysis (pandas, numpy)
 Web Development (Flask, Django)
 Unit Testing (unittest, pytest)
 Example Code:
+
+python
+
+Collapse
+
+Wrap
+
+Copy
 # Fetching data from an API
 import requests
 response = requests.get("https://api.github.com")
