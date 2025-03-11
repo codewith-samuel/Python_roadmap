@@ -1,5 +1,3 @@
-
-Copy
 # 🐍 Python Learning Roadmap
 
 Welcome to your journey in mastering Python! This roadmap is designed to take you from a complete beginner to an advanced Python developer. Each section includes key topics, tools, and resources to guide you. Let's dive in! 🚀
